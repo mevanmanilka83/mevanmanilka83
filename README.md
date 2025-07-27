@@ -4,12 +4,12 @@ I'm a passionate Software Engineering undergraduate focused on full-stack develo
 I enjoy building scalable, secure web applications and exploring modern technologies.
 
 
-
+---
 ### What I’m Working On
 - Building modern apps with **Next.js**, **React**, **NestJS**, **Express**, **TypeScript**, and **MongoDB**
 - Exploring **AI integration** and **cloud technologies**
 
----
+
 
 ### Skills & Interests
 
