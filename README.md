@@ -5,13 +5,13 @@ I enjoy building scalable, secure web applications and exploring modern technolo
 
 ---
 
-### 🚀 What I’m Working On
+### What I’m Working On
 - Building modern apps with **Next.js**, **React**, **NestJS**, **Express**, **TypeScript**, and **MongoDB**
 - Exploring **AI integration** and **cloud technologies**
 
 
 ---
-### 💡 Skills & Interests
+### Skills & Interests
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@ I enjoy building scalable, secure web applications and exploring modern technolo
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mevan-manilka-a809b0254)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mevanmanilka83)
