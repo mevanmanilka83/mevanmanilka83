@@ -10,7 +10,7 @@ I enjoy building scalable, secure web applications and exploring modern technolo
 - Exploring **AI integration** and **cloud technologies**
 
 
-
+---
 ### 💡 Skills & Interests
 
 
