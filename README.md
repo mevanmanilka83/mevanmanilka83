@@ -10,9 +10,6 @@ I'm a passionate Software Engineering undergraduate focused on Full Stack Develo
 
 ---
 
-### 📊 GitHub Stats
-
-![Mevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mevanmanilka83&show_icons=true&theme=radical)
 
 ---
 
