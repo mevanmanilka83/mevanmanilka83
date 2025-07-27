@@ -3,14 +3,14 @@
 I'm a passionate Software Engineering undergraduate focused on full-stack development.  
 I enjoy building scalable, secure web applications and exploring modern technologies.
 
----
+
 
 ### What I’m Working On
 - Building modern apps with **Next.js**, **React**, **NestJS**, **Express**, **TypeScript**, and **MongoDB**
 - Exploring **AI integration** and **cloud technologies**
 
 
----
+
 ### Skills & Interests
 
 
@@ -29,8 +29,6 @@ I enjoy building scalable, secure web applications and exploring modern technolo
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
----
 
 ### Contact Me
 
