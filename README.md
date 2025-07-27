@@ -37,5 +37,5 @@ I enjoy building scalable, secure web applications and exploring modern technolo
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:w.a.mevanmanilka@gmail.com)
 
 
-### ⚡ Fun Fact
+### Fun Fact
 I’m obsessed with clean code and solving complex problems through elegant, maintainable solutions.
