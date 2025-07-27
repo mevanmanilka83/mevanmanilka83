@@ -8,13 +8,6 @@ I'm a passionate Software Engineering undergraduate focused on Full Stack Develo
 - 📫 How to reach me: w.a.mevanmanilka@gmail.com
 - ⚡ Fun fact: I love clean code and solving challenging problems.
 
----
-
-
----
-
-
----
 
 ### 📫 Connect with me
 
