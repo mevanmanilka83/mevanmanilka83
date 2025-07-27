@@ -9,9 +9,7 @@ I enjoy building scalable, secure web applications and exploring modern technolo
 - Building modern apps with **Next.js**, **React**, **NestJS**, **Express**, **TypeScript**, and **MongoDB**
 - Exploring **AI integration** and **cloud technologies**
 
----
 
----
 
 ### 💡 Skills & Interests
 
